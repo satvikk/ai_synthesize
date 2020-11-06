@@ -1,2 +1,2 @@
 # ai_synthesize
-Learn adn implement Generative Adversarial Networks and other architectures of similar domain
+Learn and implement Generative Adversarial Networks and other architectures of similar domain
